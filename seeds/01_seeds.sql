@@ -1,8 +1,8 @@
 INSERT INTO properties (owner_id, title, description, thumbnail_photo_url, cover_photo_url, cost_per_night, parking_spaces, number_of_bathrooms, number_of_bedrooms, country, street, city, province, post_code, active)
-VALUES (1, 'winter wonderland', 'description', 'https://www.pinterest.ca/pin/729442470881727149/', 'https://www.pinterest.ca/pin/729442470886911103/', 169, 4, 3, 5, 'Switzerland', 'Gruyeres', 'Broc street', 'Canton of Fribourg', 'H4V + 2G', true);
+VALUES (1, 'winter wonderland', 'description', 'https://images.pexels.com/photos/1115804/pexels-photo-1115804.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500', 'https://www.pinterest.ca/pin/729442470886911103/', 169, 4, 3, 5, 'Switzerland', 'Gruyeres', 'Broc street', 'Canton of Fribourg', 'H4V + 2G', true);
 
 INSERT INTO properties (owner_id, title, description, thumbnail_photo_url, cover_photo_url, cost_per_night, parking_spaces, number_of_bathrooms, number_of_bedrooms, country, street, city, province, post_code, active)
-VALUES (2, 'CopaCabana Villa', 'description', 'https://www.pinterest.ca/pin/244742560987706509/', 'https://www.pinterest.ca/pin/583919907932693741/', 1499, 6, 8, 10, 'Mexico', 'Carretera boca paila', 'Tulum', 'Q.R', '77780', true);
+VALUES (2, 'CopaCabana Villa', 'description', 'https://images.pexels.com/photos/1974596/pexels-photo-1974596.jpeg?cs=srgb&dl=pexels-julia-kuzenkov-1974596.jpg&fm=jpg', 'https://www.pinterest.ca/pin/583919907932693741/', 1499, 6, 8, 10, 'Mexico', 'Carretera boca paila', 'Tulum', 'Q.R', '77780', true);
 
 INSERT INTO properties (owner_id, title, description, thumbnail_photo_url, cover_photo_url, cost_per_night, parking_spaces, number_of_bathrooms, number_of_bedrooms, country, street, city, province, post_code, active)
 VALUES (3, 'Colorful little farm', 'description', 'https://www.pinterest.ca/pin/281052832983509573/', 'https://www.pinterest.ca/pin/310466968063990535/', 129, 4, 2, 4, 'Canada', 'Monte-Ryan', 'Mont-Tremblant', 'Quebec',' J8E 0E4', false);
